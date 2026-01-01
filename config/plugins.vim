@@ -1,0 +1,11 @@
+call plug#begin()
+	Plug 'jiangmiao/auto-pairs'
+	Plug 'sainnhe/everforest'
+	Plug 'vim-airline/vim-airline'
+	Plug 'prabirshrestha/vim-lsp'
+	Plug 'mattn/vim-lsp-settings'
+	Plug 'prabirshrestha/asyncomplete.vim'
+	Plug 'prabirshrestha/asyncomplete-lsp.vim'
+	Plug 'pacha/vem-tabline'
+	Plug 'ryanoasis/vim-devicons'
+call plug#end()
