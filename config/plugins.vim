@@ -8,4 +8,5 @@ call plug#begin()
 	Plug 'prabirshrestha/asyncomplete-lsp.vim'
 	Plug 'pacha/vem-tabline'
 	Plug 'ryanoasis/vim-devicons'
+	Plug 'ap/vim-css-color'
 call plug#end()
